@@ -2,7 +2,7 @@
 
 ## Index
 
-- [Room Info and Challenge Description](#thm-description-of-the-ctf)
+- [Room Info and Challenge Description](#challenge-description)
 - [Overview](#overview)
 - [Challenge](#challenge)
   - [Enumeration](#enumeration)
@@ -12,9 +12,14 @@
   - [Post‑Exploitation & Investigation](#post-exploitation)
 - [Conclusion](#conclusion)
 
-## THM Description of the CTF
+## Challenge Description
 
-### [Room link](https://tryhackme.com/room/tryhack3mbricksheist)
+**Platform:**  TryHackMe  
+**Room:**  Bricks Heist  
+**Difficulty:**  Easy  
+**Link:**  [Room link](https://tryhackme.com/room/tryhack3mbricksheist)  
+
+### Description
 
 Crack the code, command the exploit! Dive into the heart of the system with just an RCE CVE as your key.
 
@@ -24,8 +29,6 @@ Can you hack back the server and identify what happened there?
 
 ## Overview
 
-- Platform: TryHackMe  
-- Room: Bricks Heist  
 - Objective: Compromise the host, identify malicious activity, and trace attacker fingerprint  
 - Attack vector: WordPress Bricks Builder RCE (CVE‑2024‑25600)
 
